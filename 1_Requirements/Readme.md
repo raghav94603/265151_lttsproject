@@ -30,6 +30,24 @@ This game is entirely free of cost as it has no special requirements such as ser
 ![SWOT](swot.png)
 
 
+# **Detailed Requirements**
+
+## **High Level Requirements**
 
 
+
+| **ID** | **Description** | **Category** | **Status** |
+|--------|-----------------|--------------|------------|
+|  HL01  | Player should see a 3*3 grid to play the game      | Technical    |   TBD      |
+|  HL02  | Player should be able to choose square of his choice to put the mark| Technical |  TBD |
+|  HL03  |Player should be declared as winner if he is able to match his mark diagonal,vertical or horizontal | Technical |  TBD |
+
+
+## **Low Level Requirements**
+
+
+| **ID** | **Description** | **Category** | **Status** |
+|--------|-----------------|--------------|------------|
+| LL01   |If player selects an square no which is already chose by another player display "Invalid move" | Technical | TBD |
+| LL02   |If there is no outcome after specified moves then display "Game draw" | Technical | TBD |
 
