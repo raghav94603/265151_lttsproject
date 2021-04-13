@@ -12,7 +12,20 @@ In late 90's people around the world started taking computers as their entertain
 
 ## **Benefits**
 
-As talking of today, gaming industry is at boom as there are many games which people play to entertain themselves but some games are age restricted , some have violence such as killing people etc. but what my game offers is no age restriction and no violence . The controls of the game is so easy so both kid and old man can play it and pass their free time.
+- As talking of today, gaming industry is at boom as there are many games which people play to entertain themselves but some games are age restricted , some have violence such as killing people etc. but what my game offers is no age restriction and no violence . The controls of the game is so easy so both kid and old man can play it and pass their free time.
+
+- Environment friendly game as it saves paper.
+
+## **Cost and Features**
+
+This game is entirely free of cost as it has no special requirements such as server hosting etc. So this is a money friendly game.
+
+![Design](design11.png)
+
+
+## **Swot Anaylsis**
+
+![SWOT ANAYLSIS](Tic Tac t.png)
 
 
 
