@@ -13,9 +13,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
+    - name: tic
+      run: ./tic.out
+    - name: makefile
       run: make
     - name: make check
       run: make check
