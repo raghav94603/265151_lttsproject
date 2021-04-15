@@ -44,7 +44,7 @@ int main() {
   } else {
     printf("Game ends in a draw.\n");
   }
-
+   free(Board);
   return 0;
 }
 
