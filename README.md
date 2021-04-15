@@ -6,3 +6,5 @@ This is the repo for Stepin mini  project program.
 
 [![Contribution Check - Git Inspector](https://github.com/raghav94603/265151_lttsproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/raghav94603/265151_lttsproject/actions/workflows/gitinspector.yml)
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/raghav94603/265151_lttsproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/raghav94603/265151_lttsproject/actions/workflows/cppcheck.yml)
+
