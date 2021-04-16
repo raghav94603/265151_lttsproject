@@ -65,7 +65,7 @@ char** boardcreation() {
   }
 
   return B;
- 
+  free(B);
 }
 
 // Prints the board
