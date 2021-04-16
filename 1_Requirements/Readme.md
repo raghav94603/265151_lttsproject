@@ -30,6 +30,29 @@ This game is entirely free of cost as it has no special requirements such as ser
 ![SWOT](swot.png)
 
 
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+- There is no age restriction. People of any age can play this game.
+
+## What:
+
+- Rather than using pen and paper it is played on computer so a environmental benefit too.
+
+## When:
+
+- If a person has access to a computer then he/she can play this game at any point of time.
+
+## Where:
+
+- This game needs to be installed on computer.
+
+## How:
+
+- The game is played between two players where one player make the move by 'X'  and another by '0' and after meeting certain conditions a player is declared as winner or the game is drawn.
+
+
 # **Detailed Requirements**
 
 ## **High Level Requirements**
